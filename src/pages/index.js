@@ -10,7 +10,7 @@ import Button from '../components/button';
 const IndexPage = () => (
     <Layout>
         <SEO title="Leo Acosta" keywords={[`gatsby`, `application`, `react`]} />
-        <h1>Hello there</h1>
+        <h1>Testing Netlify deploy</h1>
         <p>Welcome to your new Gatsby site.</p>
         <p>Now go build something great.</p>
         <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
