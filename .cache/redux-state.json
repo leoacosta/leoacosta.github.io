@@ -1,0 +1,1275 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "75f6495bbc30bf919db2e4e36c10660c",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "15bc473085a3da674df0a1139e69bb37",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "523c4d8cec4ece96a16bdb3850899041",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "65eb4cb0ebdd5e876100499affae99b9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "efeed9e473d7ce6d79126ec8c375da01",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "98bda4644133c48a584da6a3c9eacc7f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b3b398263dde95e3899b4c5492328dfd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "062d13611b4bb9fc9788e73a081fcf76",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "ffcb99b9-2541-500b-8dc1-fcae5df0f09c": {
+      "resolve": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby-source-filesystem",
+      "id": "ffcb99b9-2541-500b-8dc1-fcae5df0f09c",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.27",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "images",
+        "path": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.27",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "11541beedcd8270333d8bbdc890508c4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.17",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.17",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "870cbcf0c2cc288af7af0ab022f68277",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.30",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.30",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "f2bfcfd4afa0374fe269b6960c43e862",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "112c12f8-b222-509b-abe0-dfe93a905df9": {
+      "resolve": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby-plugin-manifest",
+      "id": "112c12f8-b222-509b-abe0-dfe93a905df9",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.24",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "gatsby-starter-default",
+        "short_name": "starter",
+        "start_url": "/",
+        "background_color": "#663399",
+        "theme_color": "#663399",
+        "display": "minimal-ui",
+        "icon": "src/images/gatsby-icon.png"
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.24",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.15"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "ac24dadaeab4d773354d45d0edb0b0f4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "cd161a2b84bb9a0507ad31e8a2bf5a34",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "A simple starter to get up and developing quickly with Gatsby",
+        "version": "0.1.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.2.5"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.34"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.24"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.25"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.10"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.30"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.27"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.17"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.7.2"
+          },
+          {
+            "name": "react",
+            "version": "^16.8.4"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.8.4"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.16.4"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "5e55a511893865b960ad733a33f3c1d4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "51828f05-f980-576a-9805-f5efceef87d9": {
+      "resolve": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby-plugin-page-creator",
+      "id": "51828f05-f980-576a-9805-f5efceef87d9",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.10",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "0e90153fdac1bc63a4c94eb2d209d3d3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Default Starter",
+        "description": "Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.",
+        "author": "@gatsbyjs"
+      },
+      "port": 8001,
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-04-03T09:41:40.590Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "164ed16d728c10cee7de1ae03697fc98",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "272bf138-7f8b-5ba4-87a8-966e50878fdd": {
+      "id": "272bf138-7f8b-5ba4-87a8-966e50878fdd",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "890badcd9bda38715c7474eddd0cb575",
+        "type": "Directory",
+        "description": "Directory \"src/images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2019-03-24T09:39:05.614Z",
+      "accessTime": "2019-04-03T09:41:47.665Z",
+      "changeTime": "2019-03-24T09:42:03.401Z",
+      "birthTime": "2019-03-24T09:39:05.613Z",
+      "root": "/",
+      "dir": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12888992508,
+      "blocks": 0,
+      "atimeMs": 1554284507664.5388,
+      "mtimeMs": 1553420345614.107,
+      "ctimeMs": 1553420523401.4036,
+      "birthtimeMs": 1553420345612.9954,
+      "atime": "2019-04-03T09:41:47.665Z",
+      "mtime": "2019-03-24T09:39:05.614Z",
+      "ctime": "2019-03-24T09:42:03.401Z",
+      "birthtime": "2019-03-24T09:39:05.613Z"
+    },
+    "bc2e11a3-c10f-5d96-baf1-136ef60d7a48": {
+      "id": "bc2e11a3-c10f-5d96-baf1-136ef60d7a48",
+      "children": [
+        "ad5da3d0-fd4a-5cd2-9d0e-e555ec060521"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gatsby-icon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/images/gatsby-icon.png",
+      "relativePath": "gatsby-icon.png",
+      "extension": "png",
+      "size": 21212,
+      "prettySize": "21.2 kB",
+      "modifiedTime": "2019-03-24T09:39:05.614Z",
+      "accessTime": "2019-03-24T09:39:45.448Z",
+      "changeTime": "2019-03-24T09:42:03.401Z",
+      "birthTime": "2019-03-24T09:39:05.614Z",
+      "root": "/",
+      "dir": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/images",
+      "base": "gatsby-icon.png",
+      "ext": ".png",
+      "name": "gatsby-icon",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12888992510,
+      "blocks": 48,
+      "atimeMs": 1553420385448.1345,
+      "mtimeMs": 1553420345614.2905,
+      "ctimeMs": 1553420523401.2388,
+      "birthtimeMs": 1553420345614.0918,
+      "atime": "2019-03-24T09:39:45.448Z",
+      "mtime": "2019-03-24T09:39:05.614Z",
+      "ctime": "2019-03-24T09:42:03.401Z",
+      "birthtime": "2019-03-24T09:39:05.614Z"
+    },
+    "ad5da3d0-fd4a-5cd2-9d0e-e555ec060521": {
+      "id": "ad5da3d0-fd4a-5cd2-9d0e-e555ec060521",
+      "children": [],
+      "parent": "bc2e11a3-c10f-5d96-baf1-136ef60d7a48",
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "bb67ce8b-3fce-5f44-bffb-0e7874b98855": {
+      "id": "bb67ce8b-3fce-5f44-bffb-0e7874b98855",
+      "children": [
+        "4d5b0bce-baa4-5173-ba08-a1048faf480d"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gatsby-astronaut.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/images/gatsby-astronaut.png",
+      "relativePath": "gatsby-astronaut.png",
+      "extension": "png",
+      "size": 167273,
+      "prettySize": "167 kB",
+      "modifiedTime": "2019-03-24T09:39:05.614Z",
+      "accessTime": "2019-03-24T09:39:45.448Z",
+      "changeTime": "2019-03-24T09:42:03.400Z",
+      "birthTime": "2019-03-24T09:39:05.613Z",
+      "root": "/",
+      "dir": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/images",
+      "base": "gatsby-astronaut.png",
+      "ext": ".png",
+      "name": "gatsby-astronaut",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12888992509,
+      "blocks": 328,
+      "atimeMs": 1553420385448.0967,
+      "mtimeMs": 1553420345613.9734,
+      "ctimeMs": 1553420523400.1772,
+      "birthtimeMs": 1553420345613.1045,
+      "atime": "2019-03-24T09:39:45.448Z",
+      "mtime": "2019-03-24T09:39:05.614Z",
+      "ctime": "2019-03-24T09:42:03.400Z",
+      "birthtime": "2019-03-24T09:39:05.613Z"
+    },
+    "4d5b0bce-baa4-5173-ba08-a1048faf480d": {
+      "id": "4d5b0bce-baa4-5173-ba08-a1048faf480d",
+      "children": [],
+      "parent": "bb67ce8b-3fce-5f44-bffb-0e7874b98855",
+      "internal": {
+        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "51828f05-f980-576a-9805-f5efceef87d9",
+      "pluginCreatorId": "51828f05-f980-576a-9805-f5efceef87d9",
+      "componentPath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "891c5fd082ee5bfb854fe12769f674b0",
+        "description": "51828f05-f980-576a-9805-f5efceef87d9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "51828f05-f980-576a-9805-f5efceef87d9",
+      "pluginCreatorId": "51828f05-f980-576a-9805-f5efceef87d9",
+      "componentPath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ff837e23f7c2aeaaaf46a13f1a2fab57",
+        "description": "51828f05-f980-576a-9805-f5efceef87d9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "jsonName": "page-2-fbc",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "51828f05-f980-576a-9805-f5efceef87d9",
+      "pluginCreatorId": "51828f05-f980-576a-9805-f5efceef87d9",
+      "componentPath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ead305361a742b10b878f62a5d174496",
+        "description": "51828f05-f980-576a-9805-f5efceef87d9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1480bf77f13e21a7570251943f669f87",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "e0b6cfb304db0e709d7156456abe5ad8"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-components-layout-js",
+        "sq--src-components-seo-js"
+      ],
+      "bb67ce8b-3fce-5f44-bffb-0e7874b98855": [
+        "sq--src-components-image-js"
+      ],
+      "4d5b0bce-baa4-5173-ba08-a1048faf480d": [
+        "sq--src-components-image-js"
+      ]
+    },
+    "connections": {}
+  },
+  "jsonDataPaths": {
+    "sq--src-components-layout-js": 755544856,
+    "sq--src-components-seo-js": 2417117884,
+    "dev-404-page-5f9": "386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "404-22d": "820/path---404-22-d-bce-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "index": "140/path---index-6a9-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "page-2-fbc": "726/path---page-2-fbc-5a8-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "sq--src-components-image-js": 2011440971
+  },
+  "components": {
+    "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/.cache/dev-404-page.js"
+    },
+    "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/pages/404.js": {
+      "query": "",
+      "componentPath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/pages/404.js"
+    },
+    "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/pages/index.js": {
+      "query": "",
+      "componentPath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/pages/index.js"
+    },
+    "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/pages/page-2.js": {
+      "query": "",
+      "componentPath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/pages/page-2.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-image-js": {
+      "name": "usersEternitychicDocumentsReposLeoacostaGithubIoSrcComponentsImageJs2011440971",
+      "componentPath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/components/image.js",
+      "id": "sq--src-components-image-js",
+      "jsonName": "sq--src-components-image-js",
+      "query": "query usersEternitychicDocumentsReposLeoacostaGithubIoSrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 2011440971
+    },
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
+    },
+    "sq--src-components-seo-js": {
+      "name": "usersEternitychicDocumentsReposLeoacostaGithubIoSrcComponentsSeoJs2417117884",
+      "componentPath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/components/seo.js",
+      "id": "sq--src-components-seo-js",
+      "jsonName": "sq--src-components-seo-js",
+      "query": "query usersEternitychicDocumentsReposLeoacostaGithubIoSrcComponentsSeoJs2417117884 {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
+      "hash": 2417117884
+    }
+  }
+}
