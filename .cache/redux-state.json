@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "jsonName": "dev-404-page-5f9",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "isCreatedByStatefulCreatePages": true,
-      "context": {},
-      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "75f6495bbc30bf919db2e4e36c10660c",
-        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -942,16 +932,14 @@
         "description": "Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.",
         "author": "@gatsbyjs"
       },
-      "port": 8001,
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-04-03T09:41:40.590Z",
+      "buildTime": "2019-06-03T23:52:52.337Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "164ed16d728c10cee7de1ae03697fc98",
+        "contentDigest": "b138def9b6e99204090140785f1bf2ff",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -961,7 +949,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "890badcd9bda38715c7474eddd0cb575",
+        "contentDigest": "62d454516c9648085bdd58f29bc7a47e",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -972,33 +960,33 @@
       "extension": "",
       "size": 128,
       "prettySize": "128 B",
-      "modifiedTime": "2019-03-24T09:39:05.614Z",
-      "accessTime": "2019-04-03T09:41:47.665Z",
-      "changeTime": "2019-03-24T09:42:03.401Z",
-      "birthTime": "2019-03-24T09:39:05.613Z",
+      "modifiedTime": "2019-06-03T23:42:13.893Z",
+      "accessTime": "2019-06-03T23:52:55.245Z",
+      "changeTime": "2019-06-03T23:42:13.893Z",
+      "birthTime": "2019-06-03T23:42:13.891Z",
       "root": "/",
       "dir": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src",
       "base": "images",
       "ext": "",
       "name": "images",
       "relativeDirectory": "..",
-      "dev": 16777221,
+      "dev": 16777222,
       "mode": 16877,
       "nlink": 4,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 12888992508,
+      "ino": 12891751824,
       "blocks": 0,
-      "atimeMs": 1554284507664.5388,
-      "mtimeMs": 1553420345614.107,
-      "ctimeMs": 1553420523401.4036,
-      "birthtimeMs": 1553420345612.9954,
-      "atime": "2019-04-03T09:41:47.665Z",
-      "mtime": "2019-03-24T09:39:05.614Z",
-      "ctime": "2019-03-24T09:42:03.401Z",
-      "birthtime": "2019-03-24T09:39:05.613Z"
+      "atimeMs": 1559605975245.2349,
+      "mtimeMs": 1559605333893.0576,
+      "ctimeMs": 1559605333893.0576,
+      "birthtimeMs": 1559605333891.498,
+      "atime": "2019-06-03T23:52:55.245Z",
+      "mtime": "2019-06-03T23:42:13.893Z",
+      "ctime": "2019-06-03T23:42:13.893Z",
+      "birthtime": "2019-06-03T23:42:13.891Z"
     },
     "bc2e11a3-c10f-5d96-baf1-136ef60d7a48": {
       "id": "bc2e11a3-c10f-5d96-baf1-136ef60d7a48",
@@ -1229,10 +1217,6 @@
     "sq--src-components-image-js": 2011440971
   },
   "components": {
-    "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/.cache/dev-404-page.js": {
-      "query": "",
-      "componentPath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/.cache/dev-404-page.js"
-    },
     "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/pages/404.js": {
       "query": "",
       "componentPath": "/Users/Eternitychic/Documents/Repos/leoacosta.github.io/src/pages/404.js"
